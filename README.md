@@ -1,4 +1,4 @@
-# README for Reproducibility Package
+# README 
 
 ## Why Do Some Countries Build Safer? Economic Constraints, Disaster Learning, and the Two-Stage Housing Quality Ladder
 
@@ -107,6 +107,28 @@ Run the following notebooks to access and clean each dataset:
 
 ---
 
+## Expected Outputs
+
+Running the analysis notebook (**Country_regression-RegionalFE.ipynb**) will generate the following files in the **results/** folder:
+
+### Summary Statistics and Descriptive Analysis
+- **summary_statistics_categorized.csv** – Summary statistics table (Table 1 in the main paper)
+- **correlation_matrix_publication.csv** – Correlation matrix (Table A-1 in the appendix)
+- **dropped_countries_analysis.csv** – List of countries excluded from the analysis with reasons (Table A-11 in the appendix)
+
+### Main Regression Results
+The following files contain results from the main multi-regression models (Tables B, C, and Annex C in the paper) in different formats:
+- **regression_results_formatted.xlsx** – Excel format with formatted tables
+- **regression_results_pivot.xlsx** – Excel format in pivot table structure
+- **regression_results_report.html** – HTML format for web viewing
+
+### Robustness Checks
+The following files contain robustness check results (Table 4 and Annex B in the main paper) in different formats:
+- **Table_Robustness_Checks.xlsx** – Excel format summary of robustness checks
+- **RobustnessChecks_Detailed_Comprehensive.csv** – CSV format with detailed comprehensive results
+
+---
+
 ## Computational Requirements and Runtime
 
 The author ran the analysis in Google Colab environment with Python 3.
@@ -125,6 +147,6 @@ The author ran the analysis in Google Colab environment with Python 3.
 The repository contains the following folders:
 
 - **data_raw/** – Contains all raw data used for the paper. Some data was also accessed directly through APIs.
-- **data_processed/** – Contains all processed data to be used for analysis.
+- **data_processed/** – Contains all processed data to be used for analysis (not uploaded to github). 
 - **results/** – Contains all results and outputs from the main analysis.
 - **notebooks/** – Contains all six Jupyter notebooks for this analysis.
