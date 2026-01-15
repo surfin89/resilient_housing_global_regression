@@ -1,0 +1,68 @@
+﻿COUNTRY_NAME,DIS_STM,WB_WGI_GOVERNMENT_EFFECTIVENESS_VALUE,WB_POVERTY_GAP_AT_USD4_20_2021PPP_VALUE,WB_GDP_PCAP_PPP_INTL_2021_VALUE,DIS_FLD,DIS_EQK,WB_DB_BUILDING_QUALITY_INDEX,VULN_DEFAULT_ROBUSTNESS
+Afghanistan,OK,OK,Missing,OK,OK,OK,OK,OK
+American Samoa,OK,OK,Missing,Missing,OK,OK,Missing,OK
+Andorra,Missing,OK,Missing,OK,Missing,Missing,Missing,OK
+Antigua and Barbuda,OK,OK,Missing,OK,OK,OK,OK,OK
+Aruba,Missing,OK,Missing,OK,Missing,Missing,Missing,OK
+Azerbaijan,OK,OK,Missing,OK,OK,OK,OK,OK
+"Bahamas, The",OK,OK,Missing,OK,OK,OK,OK,OK
+Bahrain,Missing,OK,Missing,OK,Missing,Missing,OK,OK
+Bermuda,OK,OK,Missing,OK,OK,OK,Missing,Missing
+British Virgin Islands,OK,Missing,Missing,Missing,OK,OK,Missing,OK
+Brunei Darussalam,OK,OK,Missing,OK,OK,OK,OK,OK
+Cabo Verde,OK,Missing,OK,OK,OK,OK,OK,OK
+Cambodia,OK,OK,Missing,OK,OK,OK,OK,OK
+Cayman Islands,OK,OK,Missing,OK,OK,OK,Missing,OK
+Channel Islands,Missing,Missing,Missing,Missing,Missing,Missing,Missing,Missing
+Cote d'Ivoire,Missing,Missing,OK,OK,Missing,Missing,Missing,OK
+Cuba,OK,OK,Missing,Missing,OK,OK,Missing,OK
+Curacao,Missing,Missing,Missing,OK,Missing,Missing,Missing,Missing
+Czechia,OK,Missing,OK,OK,OK,OK,Missing,OK
+Dominica,OK,OK,Missing,OK,OK,OK,OK,OK
+Equatorial Guinea,Missing,OK,OK,OK,Missing,Missing,OK,OK
+Eritrea,OK,OK,Missing,Missing,OK,OK,Missing,OK
+Faroe Islands,Missing,Missing,Missing,OK,Missing,Missing,Missing,Missing
+French Polynesia,OK,Missing,Missing,Missing,OK,OK,Missing,Missing
+Gibraltar,Missing,Missing,Missing,Missing,Missing,Missing,Missing,OK
+Greenland,Missing,OK,Missing,OK,Missing,Missing,Missing,Missing
+Guam,OK,OK,Missing,Missing,OK,OK,Missing,OK
+Guyana,OK,OK,Missing,OK,OK,OK,OK,OK
+"Hong Kong SAR, China",OK,OK,Missing,OK,OK,OK,OK,OK
+Isle of Man,Missing,Missing,Missing,Missing,Missing,Missing,Missing,OK
+"Korea, Dem. People's Rep.",OK,Missing,Missing,Missing,OK,OK,Missing,OK
+Kosovo,Missing,OK,OK,OK,Missing,Missing,OK,OK
+Kuwait,OK,OK,Missing,OK,OK,OK,OK,OK
+Libya,OK,OK,Missing,OK,OK,OK,Missing,OK
+Liechtenstein,Missing,OK,Missing,Missing,Missing,Missing,Missing,OK
+"Macao SAR, China",OK,OK,Missing,OK,OK,OK,Missing,OK
+Maldives,OK,OK,OK,OK,OK,OK,OK,Missing
+Malta,Missing,OK,OK,OK,Missing,Missing,OK,OK
+Monaco,Missing,OK,Missing,Missing,Missing,Missing,Missing,OK
+Nauru,Missing,OK,OK,OK,Missing,Missing,Missing,OK
+New Caledonia,OK,Missing,Missing,Missing,OK,OK,Missing,OK
+New Zealand,OK,OK,Missing,OK,OK,OK,OK,OK
+Northern Mariana Islands,OK,Missing,Missing,Missing,OK,OK,Missing,OK
+Oman,OK,OK,Missing,OK,OK,OK,OK,OK
+Palau,OK,OK,Missing,OK,OK,OK,OK,OK
+Papua New Guinea,OK,OK,Missing,OK,OK,OK,OK,OK
+Puerto Rico (US),OK,Missing,Missing,OK,OK,OK,Missing,OK
+San Marino,Missing,OK,Missing,OK,Missing,Missing,OK,Missing
+Sao Tome and Principe,Missing,Missing,OK,OK,Missing,Missing,Missing,OK
+Saudi Arabia,OK,OK,Missing,OK,OK,OK,OK,OK
+Singapore,Missing,OK,Missing,OK,Missing,Missing,OK,OK
+Sint Maarten (Dutch part),OK,Missing,Missing,OK,OK,OK,Missing,Missing
+"Somalia, Fed. Rep.",OK,Missing,Missing,OK,OK,OK,Missing,OK
+South Sudan,OK,OK,OK,Missing,OK,OK,OK,OK
+St. Kitts and Nevis,OK,OK,Missing,OK,OK,OK,OK,OK
+St. Martin (French part),OK,Missing,Missing,Missing,OK,OK,Missing,Missing
+St. Vincent and the Grenadines,OK,OK,Missing,OK,OK,OK,OK,OK
+Syrian Arab Republic,OK,OK,OK,OK,OK,OK,Missing,OK
+Trinidad and Tobago,OK,OK,Missing,OK,OK,OK,OK,OK
+Turkiye,OK,Missing,OK,OK,OK,OK,Missing,OK
+Turkmenistan,OK,OK,Missing,OK,OK,OK,Missing,OK
+Turks and Caicos Islands,OK,Missing,Missing,OK,OK,OK,Missing,OK
+Tuvalu,OK,OK,OK,OK,OK,OK,Missing,OK
+"Venezuela, RB",OK,OK,Missing,Missing,OK,OK,OK,OK
+Viet Nam,OK,OK,OK,OK,OK,OK,Missing,OK
+Virgin Islands (U.S.),OK,OK,Missing,OK,OK,OK,Missing,OK
+"Yemen, Rep.",OK,OK,OK,Missing,OK,OK,Missing,OK
