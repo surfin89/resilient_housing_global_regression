@@ -68,7 +68,8 @@ The primary exposure metric is the count of significant events in 2000–2020 by
 |:-------------|:-------------|:-------------------------|:------------|:------------|
 | Worldwide Governance Indicators | `wgidataset.xlsx` | [World Bank WGI](https://www.worldbank.org/en/publication/worldwide-governance-indicators) | 2025-10-31 | Open |
 | Dealing with Construction Permits - World Bank Group | `Dealing with Construction Permits.xlsx` | [World Bank Archive](https://archive.doingbusiness.org/en/data/exploretopics/dealing-with-construction-permits) | 2025-11-05 | Open |
-| building_class_to_vulnerability_mapping | `building_class_to_vulnerability_mapping.csv` | [GitHub Repository](https://github.com/rmiddelanis/global-unbreakable-model/tree/main/data/raw/GEM_vulnerability) | 2025-10-23 | Open |
+| building_class_to_vulnerability_mapping | `CLASS.xlsx` | [GitHub Repository](https://github.com/rmiddelanis/global-unbreakable-model/tree/main/data/raw/GEM_vulnerability) | 2025-10-23 | Open |
+| World Bank Region Classification | `building_class_to_vulnerability_mapping.csv` | [World Bank]([https://github.com/rmiddelanis/global-unbreakable-model/tree/main/data/raw/GEM_vulnerability](https://databankfiles.worldbank.org/public/ddpext_download/site-content/CLASS.xlsx)) | 2025-10-23 | Open |
 | country_vulnerability_classes | `country_vulnerability_classes.csv` | [GitHub Repository](https://github.com/rmiddelanis/global-unbreakable-model/tree/main/data/raw/GEM_vulnerability) | 2025-10-23 | Open |
 | gem_taxonomy_fields | `gem_taxonomy_fields.json` | [GitHub Repository](https://github.com/rmiddelanis/global-unbreakable-model/tree/main/data/raw/GEM_vulnerability) | 2025-10-23 | Open |
 | hazus-gem_mapping | `hazus-gem_mapping.csv` | [GitHub Repository](https://github.com/rmiddelanis/global-unbreakable-model/tree/main/data/raw/GEM_vulnerability) | 2025-10-23 | Open |
