@@ -1,0 +1,7 @@
+Hazard,Outcome,OLS_Coef,OLS_SE,IV_Coef,IV_SE,WH_pval,First_F
+Earthquake,Non-Fragile (ROBUSTNESS),0.0738,0.0172,0.1693,0.0508,0.021,31.08
+Earthquake,Robust Only,0.0456,0.0192,0.0335,0.0358,0.7494,31.08
+Flood,Non-Fragile (ROBUSTNESS),-0.0361,0.0181,-0.7119,1.9431,0.0803,0.23
+Flood,Robust Only,-0.0188,0.0161,-0.2983,0.8963,0.4286,0.23
+Storm,Non-Fragile (ROBUSTNESS),0.0075,0.0157,0.0282,0.0284,0.394,55.98
+Storm,Robust Only,-0.0091,0.0137,-0.0244,0.0248,0.4881,55.98

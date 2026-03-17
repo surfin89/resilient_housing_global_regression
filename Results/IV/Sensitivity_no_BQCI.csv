@@ -1,0 +1,3 @@
+Outcome,IV_with_BQCI,IV_without_BQCI,SE_without_BQCI,p_without_BQCI
+Non-Fragile (ROBUSTNESS),0.17,0.175,0.0558,0.0017
+Robust Only,0.0187,0.0318,0.0395,0.4203
